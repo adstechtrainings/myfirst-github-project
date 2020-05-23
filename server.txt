@@ -1,1 +1,4 @@
-this file is added on the server directly.
+this file is updated on the client directly.
+
+
+small change in server.txt file
